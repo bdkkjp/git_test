@@ -3,3 +3,5 @@
 My first GitHub repo!
 
 Hello Odin!
+
+Some small changes
